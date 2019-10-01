@@ -1,5 +1,5 @@
 {
-    "name": "smarch/watchtower",
+    "name": "michaeI/watchtower",
     "type": "package",
     "description": "Front-end for the Shinboi Auth system of Users / Roles / Permissions in Laravel 5",
     "license": "MIT",
